@@ -3,7 +3,7 @@
 ###################################
 
 #GIT - EDITAR COLORES DE LA GRÁFICA ###############
-COL_CLASS1  <- "black"
+COL_CLASS1  <- "grey"
 COL_CLASS2  <- "red"
 COL_CLASS3  <- "cyan"
 ###################################################
